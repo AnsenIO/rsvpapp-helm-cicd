@@ -7,7 +7,7 @@ image:
   repository: registry.iab.ai/rsvp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "d1b325dabedae7e0ba2d0250beda7aa607c1dfed"
+  tag: "bc9a047bf11bc5f1cd69a1d5463cd5d43f5a971c"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
